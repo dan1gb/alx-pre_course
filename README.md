@@ -11,3 +11,4 @@ Changed branch to main/master
 Updated bash/alx by replacing  echo "ALX" with echo "ALX School is so cool!"
 Deleted directory js
 Commited the changes with "Hot fix" as the message.
+.
